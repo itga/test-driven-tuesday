@@ -9,7 +9,7 @@
         "url":  "https://github.com/jan-molak/test-driven-tuesday.git"
     },
     "dependencies" : {
-        "moment":               "2.6.0",
+        "moment":               "2.29.1",
         "q":                    "1.0.1"
     },
     "devDependencies": {
